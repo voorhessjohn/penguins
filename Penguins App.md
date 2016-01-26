@@ -1,4 +1,4 @@
-**What it’s for** – 
+**WHAT IT'S FOR** – 
 Identifying plants
 can warn if its poisonous
 if it's edible
@@ -10,9 +10,9 @@ sell ads in app related to the search
 profit
 gardeners could use it to tell if a plant is ready to harvest
 
-**Who uses it** – 
+**WHO USES IT?** – 
 gardeners, hikers, botanists, survivalists
 
-**Consistency** -
+**CONSISTENCY** -
  moderated like wikipedia
 large amounts of source data to compare
